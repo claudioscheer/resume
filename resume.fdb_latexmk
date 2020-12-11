@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1603469516 "resume.xdv" "resume.pdf" "resume" 1603469516
-  "resume.xdv" 1603469516 29444 b99b49fd407bb145af42c83a6752db52 "xelatex"
+["xdvipdfmx"] 1607711144 "resume.xdv" "resume.pdf" "resume" 1607711144
+  "resume.xdv" 1607711144 31356 20e9972c1c10b38c1b27878b0f395a26 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1603469515 "resume.tex" "resume.xdv" "resume" 1603469516
-  "/etc/texmf/web2c/texmf.cnf" 1602517187 475 c0e671620eb5563b2130f56340a5fde8 ""
+["xelatex"] 1607711142 "resume.tex" "resume.xdv" "resume" 1607711144
+  "/etc/texmf/web2c/texmf.cnf" 1605925872 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -163,18 +163,18 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1417732693 4962 9c1069474ff71dbc47d5006555e352d3 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
-  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1602517268 4646573 397f2ca276f7f671cde3802153115c42 ""
-  "awesome-cv.cls" 1603463678 21943 34785c14cda7cb3b5d8ec6056d786579 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1605925933 4646956 164085af4313fc1f9feeb79331a10641 ""
+  "awesome-cv.cls" 1603472049 21943 34785c14cda7cb3b5d8ec6056d786579 ""
   "images/profile.jpg" 1603463678 438928 2591a001509f107d966f7567a3da7f66 ""
-  "resume.aux" 1603469516 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "resume.out" 1603469516 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume.tex" 1603463678 3426 be1fc43b459810b5f0c3b7961b938ba0 ""
-  "resume/education.tex" 1603464793 1265 295cb0654d0d54c475379363a01b7416 ""
-  "resume/experience.tex" 1603465659 1425 3ecde309d74ce7b75735ce62ab2f7312 ""
-  "resume/projects.tex" 1603469514 781 8b582bebb1292e02bab72aae0b1da18e ""
-  "resume/skills.tex" 1603464288 242 c6c926799d85fa05d5e173914f3de697 ""
+  "resume.aux" 1607711144 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "resume.out" 1607711144 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.tex" 1607710222 3452 71d5ef54ce77b018ac082f95716a92d5 ""
+  "resume/education.tex" 1607710994 1468 05c36994c98d019badc0615dbe7c3d4f ""
+  "resume/experience.tex" 1607711141 1418 a41b8993da78bb2105c265d36315606d ""
+  "resume/projects.tex" 1607711100 753 746b7bd2f4869b61795f8a3a2e6c4e92 ""
+  "resume/skills.tex" 1607710910 251 b91b17105749c4dddec917a4b5852452 ""
   (generated)
-  "resume.xdv"
   "resume.log"
   "resume.out"
+  "resume.xdv"
   "resume.aux"
