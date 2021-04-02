@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1614386535 "resume.xdv" "resume.pdf" "resume" 1614386536
-  "resume.xdv" 1614386535 31024 b62184ba2863ff2ff895c6bd5e87ebca "xelatex"
+["xdvipdfmx"] 1617329272 "resume.xdv" "resume.pdf" "resume" 1617329272
+  "resume.xdv" 1617329272 31044 2f938de16c5aa4acc2c82c3185ff5779 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1614386534 "resume.tex" "resume.xdv" "resume" 1614386536
+["xelatex"] 1617329270 "resume.tex" "resume.xdv" "resume" 1617329272
   "/etc/texmf/web2c/texmf.cnf" 1610864298 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -166,15 +166,15 @@
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1610864361 4645681 dd734f416c213cfde6446a2e78fd7186 ""
   "awesome-cv.cls" 1603472049 21943 34785c14cda7cb3b5d8ec6056d786579 ""
   "images/profile.jpg" 1603463678 438928 2591a001509f107d966f7567a3da7f66 ""
-  "resume.aux" 1614386535 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "resume.out" 1614386535 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.aux" 1617329272 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "resume.out" 1617329272 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   "resume.tex" 1614386532 3454 328ffdf08b644fe4210f78d61a1b7f0e ""
   "resume/education.tex" 1611145418 1503 a10939b12cdb402c6c64cfc26561c3dc ""
-  "resume/experience.tex" 1611145403 1151 1b559bfaa5e5e12ee238f7e106763e10 ""
+  "resume/experience.tex" 1617329270 1153 ddf6328e1d92ecab9b491eef766a0af2 ""
   "resume/projects.tex" 1614386480 921 243289ce9ba464b406e7734f76fc2f5a ""
   "resume/skills.tex" 1614386329 264 2971b687281771ba7b30ea3801f0e4b0 ""
   (generated)
-  "resume.xdv"
-  "resume.out"
   "resume.log"
   "resume.aux"
+  "resume.out"
+  "resume.xdv"
