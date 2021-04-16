@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1617329272 "resume.xdv" "resume.pdf" "resume" 1617329272
-  "resume.xdv" 1617329272 31044 2f938de16c5aa4acc2c82c3185ff5779 "xelatex"
+["xdvipdfmx"] 1618589269 "resume.xdv" "resume.pdf" "resume" 1618589270
+  "resume.xdv" 1618589269 30772 4e10e0464db4f66d01fcbd2e7118ec84 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1617329270 "resume.tex" "resume.xdv" "resume" 1617329272
-  "/etc/texmf/web2c/texmf.cnf" 1610864298 475 c0e671620eb5563b2130f56340a5fde8 ""
+["xelatex"] 1618589268 "resume.tex" "resume.xdv" "resume" 1618589270
+  "/etc/texmf/web2c/texmf.cnf" 1618579695 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -163,18 +163,18 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1417732693 4962 9c1069474ff71dbc47d5006555e352d3 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
-  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1610864361 4645681 dd734f416c213cfde6446a2e78fd7186 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1618579764 4648008 fbc3369fddec0ad7da41e1057fd9b81f ""
   "awesome-cv.cls" 1603472049 21943 34785c14cda7cb3b5d8ec6056d786579 ""
   "images/profile.jpg" 1603463678 438928 2591a001509f107d966f7567a3da7f66 ""
-  "resume.aux" 1617329272 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "resume.out" 1617329272 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume.tex" 1614386532 3454 328ffdf08b644fe4210f78d61a1b7f0e ""
+  "resume.aux" 1618589269 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "resume.out" 1618589269 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.tex" 1618589266 3426 be1fc43b459810b5f0c3b7961b938ba0 ""
   "resume/education.tex" 1611145418 1503 a10939b12cdb402c6c64cfc26561c3dc ""
   "resume/experience.tex" 1617329270 1153 ddf6328e1d92ecab9b491eef766a0af2 ""
   "resume/projects.tex" 1614386480 921 243289ce9ba464b406e7734f76fc2f5a ""
   "resume/skills.tex" 1614386329 264 2971b687281771ba7b30ea3801f0e4b0 ""
   (generated)
-  "resume.log"
-  "resume.aux"
-  "resume.out"
   "resume.xdv"
+  "resume.out"
+  "resume.aux"
+  "resume.log"
