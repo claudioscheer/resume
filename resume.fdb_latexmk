@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1623716269 "resume.xdv" "resume.pdf" "resume" 1623716927
-  "resume.xdv" 1623716269 31380 4f19293ec2ab3580b68258be786d28cc "xelatex"
+["xdvipdfmx"] 1624814068 "resume.xdv" "resume.pdf" "resume" 1624814068
+  "resume.xdv" 1624814067 31336 5dab60ca295c481467c8695b6dd4b117 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1623716268 "resume.tex" "resume.xdv" "resume" 1623716927
+["xelatex"] 1624814066 "resume.tex" "resume.xdv" "resume" 1624814068
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -103,7 +103,7 @@
   "/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty" 1399239813 4378 f429f0da968c278653359293040a8f52 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1612734021 17086 7ed8cbc4d361ec87392817e0dd4f65ec ""
-  "/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/fontawesome.sty" 1623715647 2759 15221ed9b396516d138b58a9d83c42f4 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/fontawesome.sty" 1463430686 2757 ee97743276dc242c78f33fd622e260ea ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex" 1465747999 33234 40b369fd6c8364bdcc88401c4c1db5bf ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex" 1463430686 45782 7166bfdff927bad3f81e302543d76c90 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1582325645 163300 4d3d778e38973f06a2524732dbbc580f ""
@@ -164,17 +164,17 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1621028613 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
   "/usr/local/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1622963906 5138957 919eea86a27bb924387f43e5e061e6d3 ""
   "/usr/local/texlive/2021/texmf.cnf" 1622963878 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "awesome-cv.cls" 1603472049 21943 34785c14cda7cb3b5d8ec6056d786579 ""
+  "awesome-cv.cls" 1624814026 21955 c3caeb210c73b744e59c7091b3e6d3a6 ""
   "images/profile.jpg" 1603463678 438928 2591a001509f107d966f7567a3da7f66 ""
-  "resume.aux" 1623716269 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
-  "resume.out" 1623716269 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume.tex" 1623715507 3426 be1fc43b459810b5f0c3b7961b938ba0 ""
+  "resume.aux" 1624814067 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
+  "resume.out" 1624814067 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.tex" 1624813896 3426 be1fc43b459810b5f0c3b7961b938ba0 ""
   "resume/education.tex" 1623716266 1538 c42d8a79b458bc6a7b0261f788216021 ""
   "resume/experience.tex" 1621362979 1166 12e8537d27390bb38087434f5914bc9b ""
   "resume/projects.tex" 1620138634 914 bbbc5478bf2001f159c77707cfe38096 ""
-  "resume/skills.tex" 1623715396 267 254c6f0b6cc80b4217502c02201706b9 ""
+  "resume/skills.tex" 1624814064 267 83f55edc417011335246074d3adf240b ""
   (generated)
   "resume.aux"
+  "resume.xdv"
   "resume.log"
   "resume.out"
-  "resume.xdv"

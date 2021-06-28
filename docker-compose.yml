@@ -2,7 +2,7 @@ version: "3.3"
 
 services:
   machine:
-    image: claudioscheer/latex-development
+    image: claudioscheer/latex
     container_name: resume-latex
     stdin_open: true
     tty: true

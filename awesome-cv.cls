@@ -69,7 +69,7 @@
 % Needed to manage fonts
 \RequirePackage[quiet]{fontspec}
 % To support LaTeX quoting style
-\defaultfontfeatures{Ligatures=TeX}
+\defaultfontfeatures{Ligatures=TeX,Path=fonts/}
 % Needed to manage math fonts
 \RequirePackage{unicode-math}
 % Needed to use icons from font-awesome
